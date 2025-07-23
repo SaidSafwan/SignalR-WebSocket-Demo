@@ -44,7 +44,7 @@ cd SignalR-WebSocket-Demo
 ### 4. Open the browser
    Navigate to: https://localhost:7081/index.html
    Open multiple tabs or browsers to see real-time messaging in action
-```
+
 ### Project Structure
 ```bash
    SignalR-WebSocket-Demo/
