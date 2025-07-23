@@ -30,8 +30,8 @@ It demonstrates how **WebSockets** and **SignalR** enable instant bi-directional
 ## Setup & Run
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/SignalR-WebSocket-Demo.git
-cd SignalR-WebSocket-Demo
+   git clone https://github.com/<SaidSafwan>/SignalR-WebSocket-Demo.git
+   cd SignalR-WebSocket-Demo
 ```
 ### 2. Build the project
 ```bash
@@ -61,4 +61,11 @@ cd SignalR-WebSocket-Demo
 ```
 
 ### Screenshot
-  
+
+  <img width="916" height="257" alt="image" src="https://github.com/user-attachments/assets/d979b187-dc2d-4fd4-a5c2-ce756e561133" />
+
+
+
+   
+   
+
